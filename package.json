@@ -1,0 +1,25 @@
+{
+  "name": "ufwd-production",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ufwd-dev/production.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ufwd-dev/production/issues"
+  },
+  "homepage": "https://github.com/ufwd-dev/production#readme",
+  "dependencies": {
+    "ufwd-activity": "git+https://github.com/ufwd-dev/activity.git",
+    "ufwd-artical": "git+https://github.com/ufwd-dev/artical.git",
+    "ufwd-article": "git+https://github.com/ufwd-dev/artical.git",
+    "ufwd-survey": "git+https://github.com/ufwd-dev/survey.git"
+  }
+}
