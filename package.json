@@ -17,9 +17,6 @@
   },
   "homepage": "https://github.com/ufwd-dev/production#readme",
   "dependencies": {
-    "ufwd-activity": "git+https://github.com/ufwd-dev/activity.git",
-    "ufwd-artical": "git+https://github.com/ufwd-dev/artical.git",
-    "ufwd-article": "git+https://github.com/ufwd-dev/artical.git",
-    "ufwd-survey": "git+https://github.com/ufwd-dev/survey.git"
+    "ufwd-system": "git+https://github.com/ufwd-dev/system.git"
   }
 }
