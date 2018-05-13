@@ -1,7 +1,7 @@
 'use strict';
 const { bootstrap } = require('lemonitor-service');
 
-require('./');
+require('./index');
 
 bootstrap(options => {
 	options.forceSync = false;
