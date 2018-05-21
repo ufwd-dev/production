@@ -57,7 +57,10 @@ typings/
 # dotenv environment variables file
 .env
 
-/config.yaml
-/.htdocs
-/thumbnailRepo
-/figureRepo
+config.yaml
+
+figureRepo
+
+thumbnailRepo
+
+.htdocs
