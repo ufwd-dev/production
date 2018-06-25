@@ -2,5 +2,5 @@
 
 require('ufwd-system');
 require('ufwd-artical');
-require('ufwd-activity');
-require('ufwd-survey');
+// require('ufwd-activity');
+// require('ufwd-survey');

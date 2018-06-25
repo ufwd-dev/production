@@ -64,3 +64,5 @@ figureRepo
 thumbnailRepo
 
 .htdocs
+
+.keys
